@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.99</item>
+        <item>$2.99</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Fresh peaces from Georgia</item>
+        <item>Tomatoes right from the vine</item>
+        <item>Squash grown organically</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
